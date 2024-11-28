@@ -1,19 +1,20 @@
 # Dynamic Traffic Routing System
 
 Course: Design & Analysis of Algorithms Lab.
-Course Code: BCS-DS-551
+
+Course Code: `BCS-DS-551`
 
 # Project Contributors
 
-`1/22/FET/BCS/069` - Dhruv Kaushal
+`1/22/FET/BCS/069` - [Dhruv Kaushal](https://github.com/dhv2004)
 
-`1/22/FET/BCS/074` - Chitraksh Tarun
+`1/22/FET/BCS/074` - [Chitraksh Tarun](https://github.com/ChitrakshTarun)
 
-`1/22/FET/BCS/077` - Gottapu Sai Nishant
+`1/22/FET/BCS/077` - [Gottapu Sai Nishant](https://github.com/Nishant0327)
 
-`1/22/FET/BCS/079` - Dipesh Mittal
+`1/22/FET/BCS/079` - [Dipesh Mittal](https://github.com/zeeno2616)
 
-`1/22/FET/BCS/151` - Rakshit Sharma
+`1/22/FET/BCS/151` - [Rakshit Sharma](https://github.com/rakshitzz)
 
 # Problem Statement
 
@@ -44,3 +45,19 @@ The project aims to develop an advanced algorithm for dynamically rerouting vehi
 ### View Network
 
 ![Output 4](/images/output-4.jpeg)
+
+# Run Project Locally
+
+1. Clone the repository.
+
+```
+git clone https://github.com/ChitrakshTarun/Dynamic-Traffic-Routing-System.git
+```
+
+2. Compile the project.
+
+```
+gcc -o traffic_router main.c graph.c utils.c
+```
+
+3. Run the generated .exe to simulate the dynamic traffic routing system.
